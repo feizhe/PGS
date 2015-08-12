@@ -1,4 +1,4 @@
-#PGS: Penalized GEE with Grid Search
+#[PGS: Penalized GEE with Grid Search](https://github.com/YinanZheng/PGS)
 
 2015.08.09: PGS R package is now available. Please click [HERE](https://github.com/YinanZheng/PGS) to download the current version and more information.
 
